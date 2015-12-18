@@ -10,6 +10,11 @@
     "type": "git",
     "url": "git+https://github.com/leshy/ribcage_idsclient.git"
   },
+  "dependencies": {
+    "backbone4000": "git://github.com/leshy/backbone4000.git",
+    "underscore": "^1.8.3",
+    "idsclient": "git://github.com/leshy/idsclient.git"
+  },
   "author": "",
   "license": "ISC",
   "bugs": {
